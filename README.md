@@ -29,5 +29,7 @@ Key Concepts: EC2, AMI, Snapshots, Disaster Recovery, RPO/RTO.
 - Verified data persistence:
 
 `bash
+
 ls -l /home/ec2-user/
+
 cat /home/ec2-user/critical_data.txt
